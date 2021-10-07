@@ -1,0 +1,17 @@
+a:Alfred:Abel:aabel@metropolis.com:f
+b:Gustav:Frohlich:gfrohlich@metropolis.com:c
+c:Rudolf:Klein-Rogge:rkleinrogge@metropolis.com:b,d,i,n
+d:Fritz:Rasp:frasp@metropolis.com:c
+e:Theodor:Loos:tloos@metropolis.com:i
+f:Erwin:Biswanger:ebiswanger@metropolis.com:a,g
+g:Heinrich:George:hgeorge@metropolis.com:f,h,m
+h:Brigitte:Helm:bhelm@metropolis.com:g,i,l,m
+i:Robert:Wiene:rwiene@caligaricabinet.com:c,e,h,j
+j:Carl:Mayer:cmayer@caligaricabinet.com:i,l
+k:Werner:Krauss:wkrauss@caligaricabinet.com:l
+l:Conrad:Veidt:cveidt@caligaricabinet.com:p,h,j,k,o
+m:Friedrich:Feder:ffeder@caligaricabinet.com:g,h,n
+n:Lil:Dagover:ldagover@caligaricabinet.com:c,m,o
+o:Hans:Twardowski:htwardowski@caligaricabinet.com:l,n
+p:Ray:Lang:raylang@raylang.com:q,l
+q:Robert:Daniels:rdaniel4@xula.edu:p
